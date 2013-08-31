@@ -1,0 +1,64 @@
+\select@language {english}
+\contentsline {section}{Introduction}{4}{section*.2}
+\contentsline {subsection}{Background}{4}{subsection*.3}
+\contentsline {subsection}{Presentational Macros}{4}{subsection*.4}
+\contentsline {chapter}{Appendix A Logic on pictures}{9}{chapter*.5}
+\contentsline {section}{Countries}{9}{section*.6}
+\contentsline {chapter}{Australian Stamps and Postal History}{11}{chapter*.7}
+\contentsline {section}{The Birds Definitive Issue of 1964-1965}{57}{section*.8}
+\contentsline {chapter}{New Zealand Postal History}{91}{chapter*.9}
+\contentsline {subsection}{Forerunners to the Monthly Packet Service}{91}{subsection*.10}
+\contentsline {chapter}{Late Fees}{93}{chapter*.11}
+\contentsline {chapter}{New Zealand Postal History}{95}{chapter*.12}
+\contentsline {chapter}{The Panama Route}{97}{chapter*.13}
+\contentsline {section}{"Forerunners" to the Monthly Packet Service}{98}{section*.14}
+\contentsline {chapter}{Via Suez and Southampton}{107}{chapter*.15}
+\contentsline {section}{The Wwreck of the Colombo}{112}{section*.16}
+\contentsline {section}{An 8d rate}{120}{section*.17}
+\contentsline {section}{"Express" Route via Marseilles}{122}{section*.18}
+\contentsline {section}{Via Brindisi}{128}{section*.19}
+\contentsline {section}{Non-Contract Ship Letter}{136}{section*.20}
+\contentsline {section}{The Panama Route}{137}{section*.21}
+\contentsline {chapter}{Via Honolulu and San Francisco}{145}{chapter*.22}
+\contentsline {chapter}{Destination Mail}{151}{chapter*.23}
+\contentsline {section}{European Destinations}{151}{section*.24}
+\contentsline {section}{New South Wales}{169}{section*.25}
+\contentsline {section}{Mail to the Australian Colonies, Victoria}{173}{section*.26}
+\contentsline {chapter}{Mail to Canada}{177}{chapter*.27}
+\contentsline {section}{Mail to Canada (East)}{177}{section*.28}
+\contentsline {section}{Mail to Canada (West)}{178}{section*.29}
+\contentsline {section}{Mail to Nova Scotia}{183}{section*.30}
+\contentsline {section}{Mail to Canada, Prince Edward Island}{185}{section*.31}
+\contentsline {chapter}{Mail to the United States}{187}{chapter*.32}
+\contentsline {chapter}{Mail to the Rest of the World}{199}{chapter*.33}
+\contentsline {section}{Destination Mail, Antiqua}{199}{section*.34}
+\contentsline {section}{Destination Mail, Brazil}{200}{section*.35}
+\contentsline {section}{Cape of Good Hope}{201}{section*.36}
+\contentsline {section}{Destination Mail, Ceylon}{202}{section*.37}
+\contentsline {section}{Destination Mail, India}{203}{section*.38}
+\contentsline {section}{Destination Mail, Mauritius}{205}{section*.39}
+\contentsline {section}{Destination Mail, New Caledonia}{206}{section*.40}
+\contentsline {chapter}{Mark Benvie Collection}{207}{appendix*.41}
+\contentsline {chapter}{SHIPPING DISASTERS}{211}{appendix*.42}
+\contentsline {chapter}{Egypt}{215}{appendix*.43}
+\contentsline {chapter}{Egypt}{217}{appendix*.44}
+\contentsline {chapter}{Austrian Levant}{225}{appendix*.45}
+\contentsline {chapter}{English Ship Mails}{245}{appendix*.46}
+\contentsline {chapter}{Egypt, Posta Europea}{265}{appendix*.47}
+\contentsline {chapter}{Provost essays}{309}{appendix*.48}
+\contentsline {chapter}{1879 Pyramid Issue}{337}{appendix*.49}
+\contentsline {subsection}{De La Rue has Postes Egyptiennes at the top}{337}{subsection*.50}
+\contentsline {section}{1926 12th Agricultural Exhibition}{378}{section*.51}
+\contentsline {section}{1933 Railway Congress}{382}{section*.52}
+\contentsline {section}{1934 UPU Congress}{384}{section*.53}
+\contentsline {section}{1937 Prince}{384}{section*.54}
+\contentsline {chapter}{1942 Millenium of Al-Azhar Mosque}{389}{appendix*.55}
+\contentsline {chapter}{Consular Post Offices}{391}{appendix*.56}
+\contentsline {chapter}{Suez}{393}{appendix*.57}
+\contentsline {chapter}{French}{399}{appendix*.58}
+\contentsline {chapter}{Greek Post office}{413}{appendix*.59}
+\contentsline {chapter}{Italian Post Office Alexandria}{415}{appendix*.60}
+\contentsline {chapter}{Airmails}{417}{appendix*.61}
+\contentsline {section}{Insufficient Postage Payment}{427}{section*.62}
+\contentsline {chapter}{Zeppelin Flights}{459}{appendix*.63}
+\contentsfinish 
